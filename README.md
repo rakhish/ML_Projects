@@ -1,5 +1,5 @@
-# Capstone-Projects
-Statistical analysis of heart disease data.
+1. Different Techniques and Algorithms of ML
+2. Statistical analysis of heart disease data.
 
 The dataset used in this project comes from four different sources.
 
